@@ -6,7 +6,7 @@
 ```
 
 * result :
-![picture](result.png)
+![picture](result.JPG)
 
 
 
