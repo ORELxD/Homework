@@ -6,7 +6,7 @@
 ```
 
 * result :
-![picture](C:\Users\OREL\Desktop\PYTHON\homeworkLession8\‏‏result.JPG)
+![Main UI 1]screenshots/result.JPG"Main UI 1")
 
 
 
