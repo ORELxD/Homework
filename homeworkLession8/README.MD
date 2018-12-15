@@ -6,7 +6,7 @@
 ```
 
 * result :
-![Main UI 1]screenshots/result.JPG"Main UI 1")
+![Main UI 1]homeworkLession8/result.JPG"Main UI 1")
 
 
 
