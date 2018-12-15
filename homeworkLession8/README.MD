@@ -6,7 +6,8 @@
 ```
 
 * result :
-![picture](result.JPG)
+
+![picture](HomeworkLession8 /result.JPG)
 
 
 
