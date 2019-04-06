@@ -38,18 +38,18 @@
 # Homework Day 08
 
 * start command :
-```cmd
+```python
  py student.py
 ```
 
 * code :
 
-![picture](https://github.com/ORELxD/Python/blob/master/homeworkLession8/CODE.JPG)
+![picture](https://github.com/ORELxD/Python/blob/master/Home_Work_Day_08/CODE.JPG)
 
 ***
 * result :
 
-![picture](https://github.com/ORELxD/Python/blob/master/homeworkLession8/%E2%80%8F%E2%80%8Fresult.JPG)
+![picture](https://github.com/ORELxD/Python/blob/master/Home_Work_Day_08/%E2%80%8F%E2%80%8Fresult.JPG)
 
 
 
